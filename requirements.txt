@@ -6,3 +6,5 @@ sentence-transformers
 faiss-cpu
 transformers
 requests
+python-dotenv
+streamlit
